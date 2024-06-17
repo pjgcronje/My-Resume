@@ -32,7 +32,7 @@ a {
   color: #14ffec;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 25px;
+  font-size: 30px;
 }
 #summary {
   padding: 20px 400px;
@@ -45,7 +45,8 @@ a {
   text-align: left;
   margin: 1%;
 }
-#moreInfo {
+#awards {
+  padding: 0px 600px 0px 0px;
 }
 #links {
   text-align: center;
